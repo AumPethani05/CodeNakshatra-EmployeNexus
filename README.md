@@ -104,7 +104,7 @@ The React development server starts on `http://localhost:3000` and proxies nothi
 EmployeNexus is organized into two top-level modules, each with a distinct internal layer structure:
 
 ```
-CodeNakshatra-EmployeNexus/
+EmployeNexus/
 ├── react-frontend/                        React SPA — presentation & HTTP dispatch
 │   ├── package.json                       npm manifest; declares axios, react-router-dom, bootstrap
 │   └── src/
