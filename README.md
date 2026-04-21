@@ -465,7 +465,7 @@ To contribute:
 
 Please keep backend changes (Java/Spring) and frontend changes (React/JS) in logically separate commits. For any change that alters the REST API contract (endpoint paths, request/response shape), update both the controller and the relevant `EmployeeService.js` call in the same PR.
 
----
+----
 
 ## License
 
