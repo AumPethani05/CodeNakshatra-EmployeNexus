@@ -461,7 +461,7 @@ To contribute:
 2. Create a feature branch: `git checkout -b feature/your-feature-name`
 3. Commit your changes: `git commit -m "describe your change"`
 4. Push to your fork: `git push origin feature/your-feature-name`
-5. Open a pull request against `main`
+5. Open a pull request against `main`.
 
 Please keep backend changes (Java/Spring) and frontend changes (React/JS) in logically separate commits. For any change that alters the REST API contract (endpoint paths, request/response shape), update both the controller and the relevant `EmployeeService.js` call in the same PR.
 
