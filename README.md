@@ -471,4 +471,4 @@ Please keep backend changes (Java/Spring) and frontend changes (React/JS) in log
 
 This project is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Copyright © 2024 AUM PETHANI.
+Copyright © 2024 AUM PETHANI
